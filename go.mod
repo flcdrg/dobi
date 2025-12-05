@@ -19,7 +19,7 @@ require (
 	github.com/opencontainers/runc v1.0.0-rc3.0.20170716065720-825b5c020ace // indirect
 	github.com/pkg/errors v0.8.1
 	github.com/renstrom/dedent v1.0.1-0.20150819195903-020d11c3b9c0
-	github.com/sirupsen/logrus v1.4.1
+	github.com/sirupsen/logrus v1.8.3
 	github.com/smartystreets/goconvey v1.6.4 // indirect
 	github.com/spf13/cobra v0.0.2-0.20171109065643-2da4a54c5cee
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
